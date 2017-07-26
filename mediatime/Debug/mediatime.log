@@ -1,0 +1,12 @@
+﻿  plugin.cpp
+c:\users\drath\documents\visual studio 2015\projects\mediatime\mediatime\plugin.cpp(20): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\drath\documents\visual studio 2015\projects\mediatime\mediatime\plugin.cpp(21): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\drath\documents\visual studio 2015\projects\mediatime\mediatime\plugin.cpp(22): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\drath\documents\visual studio 2015\projects\mediatime\mediatime\plugin.cpp(23): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     Creating library c:\users\drath\documents\visual studio 2015\Projects\mediatime\Debug\mediatime.lib and object c:\users\drath\documents\visual studio 2015\Projects\mediatime\Debug\mediatime.exp
+  mediatime.vcxproj -> c:\users\drath\documents\visual studio 2015\Projects\mediatime\Debug\mediatime.dll
+  mediatime.vcxproj -> c:\users\drath\documents\visual studio 2015\Projects\mediatime\Debug\mediatime.pdb (Full PDB)
